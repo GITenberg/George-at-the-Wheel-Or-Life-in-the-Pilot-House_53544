@@ -1,0 +1,35 @@
+_repo: George-at-the-Wheel-Or-Life-in-the-Pilot-House_53544
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2016-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Guerrillas -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Mexico -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- GITenberg
+title: George at the Wheel; Or, Life in the Pilot-House
+url: http://www.gutenberg.org/ebooks/53544
